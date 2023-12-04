@@ -1,0 +1,87 @@
+This initial list of best practices have been aligned to our taxonomy. It is clear that there is a significant focus on accessibility and usability, but less so on other areas in our taxonomy.
+
+{|class="wikitable"
+|Best Practice||Taxonomy branch||Applicable to||Link
+|-
+|Usability Guidelines For Web Design||Product - usability||Web Design||[https://ibm.ent.box.com/file/733151473098 Link]
+|-
+|Goverment Digital Service - Service Manual ||People - accessibility||Digital Services||[https://www.gov.uk/service-manual Link]
+|-
+| Web Content Accessibity Guidelines (WCAG) for content that is: Perceivable, Robust, Operable, Understandable||People - accessibility||Web Content||[https://www.w3.org/WAI/standards-guidelines/wcag/ Link]
+|-
+|Use short sentences & paragraphs||Product - usability||Web design||[https://www.quicksprout.com/website-design-best-practices/ Link]
+|-
+|Make CTAs clear and obvious||Product - usability||Web design||[https://www.quicksprout.com/website-design-best-practices/ Link]
+|-
+|Reinforce actions with familiarity||Product - usability||Web design||[https://www.quicksprout.com/website-design-best-practices/ Link]
+|-
+|Optimize your design for mobile devices||Product - usability||Web design||[https://www.quicksprout.com/website-design-best-practices/ Link]
+|-
+|Monitor your page loading speed||Product - usability||Web design||[https://www.quicksprout.com/website-design-best-practices/ Link]
+|-
+|Continuously run A/B tests||Product - usability||Web design||[https://www.quicksprout.com/website-design-best-practices/ Link]
+|-
+|Use bullets points||Product - usability||Web design||[https://www.quicksprout.com/website-design-best-practices/ Link]
+|-
+|Usability testing||Product - usability||Any UX||[https://www.nngroup.com/articles/task-scenarios-usability-testing/ Link]
+|-
+|Usability testing||Product - usability||Any UX||[https://www.nngroup.com/articles/usability-testing-101/ Link]
+|-
+|Usability testing||Product - usability||Any UX||[https://xd.adobe.com/ideas/process/user-testing/best-practices-for-usability-testing-in-ux-design/ Link]
+|-
+|Rules of UI Design||Product - usability||Any UX||[https://xd.adobe.com/ideas/process/ui-design/4-golden-rules-ui-design/ Link]
+|-
+|UI Design Best Practices for Better Scannability||Product - usability||Any UX||[https://www.toptal.com/designers/web/ui-design-best-practices Link]
+|-
+|ux design best practices||Product - usability||Any UX||[https://www.intechnic.com/blog/100-ux-design-pro-tips-from-user-experience-master/ Link]
+|-
+|Apply Consequence Scanning||Product - Consequence scanning||Any project||[https://ibm.ent.box.com/file/739251016106 Link]
+|-
+|European Innovation Partnership on Active and Healthy Ageing||People||all||[https://ec.europa.eu/eip/ageing/standards/ict-and-communication/user-interface_en Link]
+|-
+|Human Factors (HF); User Interfaces; Generic spoken command vocabulary for ICT devices and services||Product - usability||Voice UX||[https://www.etsi.org/deliver/etsi_es/202000_202099/202076/02.01.01_60/es_202076v020101p.pdf Link]
+|-
+|Audio, video and multimedia systems and equipment activities and considerations related to accessibility and usability||People - accessibility||Audio Video UX||[https://webstore.iec.ch/publication/7354 Link]
+|-
+|Human Factors (HF); Personalization and User Profile Management; Architectural Framework||Product - Profile UX, Security, Privacy||Any UX||[https://www.etsi.org/deliver/etsi_ts/102700_102799/102747/01.01.01_60/ts_102747v010101p.pdf Link]
+|-
+|Information technology -- User interfaces -- Accessible user interface for accessibility settings||People - accessibility||Any UX||[https://webstore.iec.ch/publication/11219 Link]
+|-
+|Human Factors (HF); AT Commands for Assistive Mobile Device Interfaces||People - accessibility||Inteoperabilty||[https://www.etsi.org/deliver/etsi_ts/102500_102599/102511/01.01.01_60/ts_102511v010101p.pdf Link]
+|-
+|Ergonomics of Human System Interaction||People - Ergonomics||Any UX||[https://www.iso.org/obp/ui/#iso:std:iso:9241:-1:ed-2:v1:en Link]
+|-
+|European Accessibilty Act||People - accessibility||Any UX||[https://ec.europa.eu/social/main.jsp?catId=1202 Link]
+|-
+|The European Standard for Digital Accessibility||People - accessibility||||[https://www.essentialaccessibility.com/blog/en-301-549 Link]
+|-
+|IBM Accessibility Toolkit ||People - accessibility||||[https://www.ibm.com/able/toolkit Link]
+|-
+|Cards for Humanity ||People - Inclusivity/UX||Any UX||[https://cardsforhumanity.idean.com/ Link]
+|-
+|Tarot Cards of Tech||People - Consequence planning/inclusivity ||Any UX||[http://tarotcardsoftech.artefactgroup.com/ Link]
+|-
+|Principles for Technologists||People - Usability/UX/tech ethics etc||Any UX||[https://www.humanetech.com/technologists#principles Link]
+|-
+|GDS Digital Inclusion Outcomes Framework||People - Inclusivity/UX||||[https://digitalinclusion.blog.gov.uk/2015/07/14/launching-a-digital-inclusion-outcomes-framework/ Link]
+|-
+|Digital Inclusion Evaluation Toolkit||People - Inclusivity/UX||||[https://www.gov.uk/government/publications/digital-inclusion-evaluation-toolkit Link]
+|-
+|Web Content Accessibility Guideliness 2.1||People - accessibility||Any UX||[https://www.w3.org/TR/WCAG21/ Link]
+|-
+|Web Content Accessibility Guideliness 2.0||People - accessibility||Any UX||[https://www.w3.org/TR/WCAG20/ Link]
+|-
+|IBM Accessibility Checklist||People - accessibility||Any UX||[https://www.ibm.com/able/requirements/requirements/ Link]
+|-
+|Inclusive Design Guideliness||People - Inclusivity/UX||Any project||[https://guide.inclusivedesign.ca/ Link]
+|-
+|Inclusive Learning Guideliness||People - Inclusivity/UX||All for inclusive learning||[https://handbook.floeproject.org/ Link]
+|-
+|GDS Profiles/Personas with disabilities and impairments||People - accessibility||||[https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles Link]
+|-
+|WAI-ARIA Guidelines||||||[https://www.w3.org/TR/wai-aria-practices-1.2/ Link]
+|-
+|React Aria ||People - accessibility||||[https://react-spectrum.adobe.com/react-aria/index.html Link]
+|-
+|Inclusive Design||People - Inclusivity/UX||||[https://www.microsoft.com/design/inclusive/ Link]
+|}

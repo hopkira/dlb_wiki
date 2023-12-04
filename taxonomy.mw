@@ -1,0 +1,40 @@
+
+== Why do we need a taxonomy? ==
+
+Stopping people being left behind by technology is a multi-faceted problem. It is easy for those designing solutions to be overwhelmed by the myriad of topics and concerns that make the difference between a solution that is as inclusive as it can be and one that unnecessarily alienates and excludes.
+
+To help focus efforts and resources, we have defined a simple taxonomy that attempts to summarise the key concerns in a structured way.  A simple taxonomy enables the product owner, designer or developer to consider which aspects of the taxonomy are most important to their particular situation and prioritise their efforts accordingly.
+
+=== Using the taxonomy ===
+
+The prioritization of the areas of concern can be done by walking through a simple set of questions on the pages linked to below.  These questions are designed to prompt an individual to think about each part of the taxonomy from the perspective of their problem or solution.
+
+The second part of this wiki will provide links or new materials for best practices for each element of the Digitally Left Behind Community taxonomy.  It is recommended that these best practices are selected based on the taxonomy prioritization and then included in the activities conducted on the project.  Our goal is that fewer people are digitally are behind than would otherwise have been the case.
+
+== Taxonomy overview ==
+
+[[File:icons_taxonomy.png|600px|center|Main areas of focus]]
+
+We have organized the taxonomy across three branches:
+
+# [[Person]]
+# [[Product]]
+# [[Infrastructure]]
+
+
+All three should be considered when attempting to understand a situation fully. The following table defines what is considered each each of these three areas:
+
+{| class="wikitable"
+|+DLBC taxonomy branches
+|-
+|[[Person]]
+|This area asks you to consider the background and abilities of your user groups.  How good are they at coping with fine grained movements? How good are they at learning new skills or remembering new things? Are they likely to trust your solution? Are they likely to have support or help? What technology can they afford? Do you use algorithms that have only been tested on people with a specific face shape or skin colour? Our best practices will encourage you to empathise with them and ensure that you don't forget that they are unlikely to be like you or your colleagues!
+|-
+|[[Product]]
+|This area is very broad, but asks  you to think deeply about the facets of your digital solution or product.  The branch will help you work out which aspects will enable it to leave as few people behind as possible. In addition to the traditional areas of accessibility and usability, this part of the taxonomy will ask you to consider broader topics such as enabler ecosystems, barriers to entry and pain vs. gain. How can your solution be ''seen'' to be trustworthy and reliable? How will you understand the users' experience and will you be able to tell if they achieved the outcome they wanted or needed?  Finally what characteristics will your solution or team need to excel in to ensure that positive experiences continue and no-one is left behind.
+|-
+|[[Infrastructure]]
+|In most cases, the Person and the Product interact via some intermediary; usually a device with access to the Internet, but sometimes it may be the phone network or a real intermediary. The likely characteristics of those environments make up our final branch. Just as your users are unlikely to be exactly like you, their environment is likely to be very different too.  What type of device or network do they have access to? What are the range of environments in which they live? Are their constraints or limitations that might be imposed by a Government or unreliable infrastructure?  Even a great product that a user would love to use can be quickly undermined by poor infrastructure or a hostile environment.
+|-
+|}
+For further details on each of the taxonomy branches, just click on the links in the table.

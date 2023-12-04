@@ -1,0 +1,42 @@
+=== What is the Digital Divide? ===
+
+The use of Information Technology (IT) has increased rapidly due to the proliferation of end-user devices available to individuals and the ubiquitous connectivity of these devices. Businesses and the Government are exploiting these channels they offer benefits because of their efficiencies and reach. Many people are now connected and on-line, but with varying degrees of skills, confidence and equipment. A significant number of individuals are not connected, or have inadequate skills, confidence or equipment and this has resulted in what it known as The Digital Divide. It is an important and urgent topic and the UK's Royal Academy of Engineering has highlighted the difficulties people face in their magazine [https://www.ingenia.org.uk/getattachment/Ingenia/Issue-76/Opinion/Opinion.pdf Ingenia].
+
+[[File:DLBC_photo_2.png|800px]]
+
+===Changing Perceptions of the Digital Divide===  
+Historically the Digital Divide has, despite research and warnings to the contrary, been regarded as a problem primarily for older people. The COVID-19 pandemic of 2020/21 has clearly illustrated this is not the case and the Digital Divide has its roots in a number of factors:
+# The abilities and desires of people to use technology
+# The degree to which technology, products and solutions have been designed to be inclusive
+# The availability of appropriate equipment
+
+
+Many Governments had equated access and use of smart Internet connected devices such as tablets and phones as proof of the lack of a Digital Divide in younger generations. In reality access to adequate numbers of Internet connected devices to conduct ''work'', and the skills to use them, is often limited. Many households have no access to laptops or computers with keyboards.  Many more had only one laptop for the whole family. It is therefore challenging in the extreme for all members of a family to be schooled and work remotely.
+
+===What needs to be done?===
+This website represents the public repository of a volunteer community from both industry and academia that is looking at closing the Digital Divide.  The community's activities are in three primary areas:
+
+# Research around the size, personal and economic impact of the Digital Divide
+# Research into the causes of the Digital Divide and what might be practically done to close it
+# Development of new industry best practices to help close the Digital Divide
+
+
+It is hoped that in addressing these three areas sufficient insight and pressure can be generated to assist in closing the Divide.
+
+===New industry best practices===
+Our first structured outputs from this volunteer initiative are a taxonomy and a harvested list of best practices.  The taxonomy breaks the huge problem of the Digital Divide into related areas so that they can be better understood. Taking a poorly defined and complex area such as this and creating a (relatively) simple hierarchical breakdown of the major concerns provides four things:
+
+# A better and clearer understanding of the various facets of the problem
+# A common vocabulary to discuss the divide
+# An ability to identify, in any specific situation, which topics or facets are likely to widen the divide if left unaddressed
+# The ability to identify and prioritise best practices that are aligned to each topic or facet to enable the divide to be narrowed through good thinking, design, testing and implementation.
+
+Today, we have a first draft of a [[Taxonomy|taxonomy]] that is helping us shape the problem and a list of known design Best Practices that address some of the issues of the Digital Divide.  You can already use the taxonomy to structure your thinking about your product or solution as we have provided some 'prompt questions' that we hope you find useful.
+
+====Work to be done====
+We are collating and curating an initial list of [[Best practices|best practices]]. As part of our initial analysis we have compared the facets of the [[Taxonomy|taxonomy]] against industry [[Best practices|best practices]].  That work has shown that whilst many areas are well understood and covered if existing best practices are followed, there are key areas around people and environment that are generally overlooked.
+
+Further updates will:
+
+# Map the taxonomy topics to the most relevant best practices.
+# Publish suggested new best practice where there is little or no in evidence

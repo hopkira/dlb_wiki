@@ -1,0 +1,64 @@
+[[Category:Taxonomy]]
+
+[[File:infra_taxonomy.png|600px|center|Infrastructure taxonomy diagram]]
+
+The following table provides an overview of the kinds of environmental and infrastructural aspects that should be considered by the creators of any product or system.  These areas are unlikely to be under the direct control of the designers and in many cases, outside of the control of the users.  It is vital to reflect such considerations in the stories, technical spikes and tests for the product (especially those that apply to the experience of the user and systems performance and resilience). 
+
+{| class="wikitable"
+!colspan="3"|Infrastructure considerations to mimimize the digitally left behind
+|-
+
+|rowspan="3"|Computing Device
+|Age
+|What kinds of devices are likely to be used and the capabilities of these devices to access the product?
+|-
+|Type
+|Stationary (workstations) or Mobile (Smartphones, cellular phones)
+|-
+|Maintainability
+|Are the devices upgradable? Is it reasonable to ask the users to upgrade software (or even hardware) if necessary? Do the skills of the people maintaining devices allow them to be upgraded?
+|-
+
+|rowspan="3"|Network
+|Latency
+|What kind of Internet access is likely? Are responses likely to be fast or slow?
+|-
+|Access speed
+|What is the likely bandwidth available, and how long does it take to establish a connection?
+|-
+|Wired vs mobile
+|Connection type to the Internet (wireless router, cable to router, cellular). If information is required to use the product or solution, will the user have to bring it to the device, or the device to the information? Which is more practical or likely?
+|-
+
+|rowspan="4"|Locality
+|Urbanization
+|To what degree do the users live in rural or urbanized areas? This consideration is associated with the relative population density for a location and the number of individuals likely to be affected by investment in IT infrastructure.
+|-
+|Development
+|How sophisticated is the local infrastructure? Is it available across the area, country, region or world or are their major differences?
+|-
+|Terrain
+|Are there specific considerations that need to be asked for around unusual or far flung regions? Are there geographic or cultural considerations on the ground that need to be taken into accout?
+|-
+|-
+|Mobility
+|How easy is it for users to travel? If face to face contact is desired or required is that possible using public transport?
+|-
+
+|rowspan="4"|Regulatory
+|Vision
+|Does the area, country or region have a vision, strategy or enabling capability for the digitally left behind that could be leveraged?
+|-
+|Access
+|Do the users have full Internet access, or are there likely to be constraints imposed by data localization legislation or regulatory restrictions?
+|-
+|Fairness
+|Are there other factors (such as Government corruption) or other aspects of endemic coercive control that should be taken into account?
+|-
+|Execution
+|What kind of quality of service can be expected in the area, country or region? Is power or Internet access pretty much always on, or is it unreliable?
+
+|}
+
+----
+[[Taxonomy]]  -  [[Person]]  -  [[Product]]  -  [[Infrastructure]]

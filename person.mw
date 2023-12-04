@@ -1,0 +1,71 @@
+[[Category:Taxonomy]]
+
+[[File:person_taxonomy.png|600px|center|Person taxonomy overview]]
+
+The following table provides an overview of the kinds of aspects that should be considered for the users of any product, system, or service. These elements that are deemed the most critical to avoid people being digitally left behind and should be reflected appropriately in personas and user stories.
+
+
+{| class="wikitable"
+!colspan="3"|Key Considerations from a Person Perspective
+|-
+|rowspan='5'|Abilities 
+|Remembering facts and events
+|What commands, concepts, and vocabulary does a person need to remember?
+|-
+|Learning new skills
+|What procedures and skills does a person need to learn? Keyboarding, programming, spreadsheets? What information does a person need to learn? To what extent is it signposted?
+|-
+|Perceiving
+|To what extent do you rely on visual, auditory, haptic, or tactile information? How easy are those perceptual cues to perceive?
+|-
+|Moving
+|What movements does the person need to make, and how finely controlled do they have to be?
+|-
+|Coping with cognitive load
+|How well is the person able to cope when they need to multitask?
+|-
+|rowspan='5'| Expectations
+|Performance
+|Does the person think that the product does what they want it to do? Does the product help the person achieve something?
+|-
+|Efficiency
+|Does the person think that the product allows them to reach their goals quickly / without much fuss?
+|-
+|External pressure
+|Is it something others expect or want the person to use? Does it come recommended? Is the product a status symbol?
+|-
+|Trust
+|Does the person trust the product not to expose them to harm or cause harm? 
+|-
+|Facilitating support
+|Does the person think that there is sufficient support when there are problems with the system? Does the person deem the system to be easily maintainable?
+|-
+|rowspan="5"|Demographic
+|Age
+| What is the likely age ranges of the person? Will children,  young adults, or older adults use your product?
+|-
+| Identity and Culture 
+| What assumptions are you making about the person's gender identity, daily routines, values, beliefs, or clothing?
+|-
+|Occupation
+| What is the remit of the person's current role? What roles or jobs have they had in the past? To what extent did these roles involve interacting with technology?
+|-
+| Race / Ethnicity
+| To what ethnic / racial groups do your users belong? What  relevant ethnic / racial groups exist in the country / countries where your product is deployed? 
+|-
+|Socioeconomic status
+|Does your product or service require the person to have access to technology that they cannot afford? If they do have the technology, can they afford to repair or replace it when it breaks down?
+|-
+|rowspan='3'|Psychological
+|Self efficacy
+|To what extent is the person confident in their own ability to cope with technology?.
+|-
+|Risk attitude
+|To what extent is the person happy to take risks, or open to manageable risk?
+|-
+|Technology attitude
+|What does the person view the main benefits and drawbacks of technology, according to your users? In what areas of their lives do they embrace technology, and in what areas do they avoid it?
+|}
+
+----
+[[Taxonomy]]  -  [[Person]]  -  [[Product]]  -  [[Infrastructure]]

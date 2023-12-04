@@ -1,0 +1,82 @@
+[[Category:Taxonomy]]
+
+[[File:product_taxonomy.png|600px|center|Product taxonomy diagram]]
+
+The following table provides an overview of the kinds of aspects that should be considered by the creators of any product or system in terms of the product characteristics or qualities. These elements that are deemed the most critical to avoid people being digitally left behind should be reflected appropriately in technical spikes, user stories and acceptance tests for users and operations.
+{| class="wikitable"
+!colspan="3"|Product considerations to mimimize the digitally left behind
+|-
+|rowspan="3"|Enablers
+|Low barriers
+|Which of the personas might find the system hard to get access to?  Am I assuming access to a laptop or high transmission rates?  Will this work on a 3G phone?
+|-
+|Simplicity
+|Is the language and paradigm I am using appropriate? Am I asking clear and simple questions? Can the user interface be understood by someone who doesn't use computers everyday?
+|-
+|Enabler ecosystem
+|Have we designed a support mechanism as part of this system?  What happens if some one simply can't use the system? What help needs to be available and where?  Who would be in the best position to provide support and guidance? How could we get them engaged?
+|-
+|rowspan="3"|Access
+|Alternatives
+|Have I provided a non IT route to enable the user goals to be met? How can I make people aware of the alternative routes?
+|-
+|Accessibility
+|Is the system accessible to the personas we have designed? Would they be able to use it as designed?  What additional tools or advice might they need and how will they get it?
+|-
+|Usability
+|Is the system actually usable?  Is it appropriate for how often it might be used? Is it learnable?
+
+|-
+|rowspan="2"|Benefits
+|Communication Quality
+|Does the system communicate why we are asking for the user to do something? Are the communications we're making timely and clear
+|-
+|Pain vs. gain
+|Is the level of difficulty of completing the goal or the intrusion into private lives appropriate for the gain that the individual will see?  Is it reasonable for the user to expend this much effort to achieve their overall goal? 
+
+|-
+|rowspan="4"|Trust
+|Reliable
+|Can I be confident that the system will be there when an individual needs it?  What happens when elements of the system fail?  Do they do so whilst keeping the user informed and confident that they haven't broken the system?  What will be lost when the system recovers?
+|-
+|Visible integrity
+|Is the system clearly taking care of the information it is given?  Is it looking after the users physical and digital security and preventing their private data being divulged.  Is the user given a sense of how their data will be used and when it will be deleted?
+|-
+|Safe from abuse
+|How does the system prevent abuses being perpetrated using it? How does it prevent coercive control?  How does it prevent mass publication of personal data?
+|-
+|Access/audit
+|Are the access and audit controls adequate to both safeguard the user's experience and data, but also sufficiently easy to use such that they don't rely on impossible tasks, such as remembering very long passwords or unreasonably complex password rules.
+
+|-
+|rowspan="2"|Experience
+|Outcomes
+|Have the end users experienced an improvement in their ability to meet their goals?  Have the end results that have been looked for been achieved?  How will this be measured?
+|-
+|Feedback
+|Is their experience faster, simpler or better?  How can this be measured in a non-intrusive way?
+
+|-
+|rowspan="6"|Characteristics
+|Maintainability
+|Can the alternative options and paths be maintained in an efficient manner?  How easy it it to improve the user experience in line with the feedback that is being received?
+|-
+|Scalability
+|Can the system cope with unexpected demands or artificially imposed deadlines?  What happens if everyone tries to use it at the same time?
+|-
+|Testability
+|How easy is it to automate the testing of the user experience such that changes do not compromise its accessibility and usability?  Are the personas experiences appropriately translated into automated test cases?  What tools will the development team have to take themselves out of their 'users are just like me' zone?
+|-
+|Flexibility
+|Can the system add a new channel if needed? Could it cope with everyday, but not mainstream situations such as power of attorney, or use by other representatives such as care workers?
+|-
+|Regulatory
+|Is it clear what countries the system will operate in?  Have the requirements of all the relevant data privacy and accessibility regulations incorporated into the requirements baselines and tooling pipeline?
+|-
+|Diversity
+|How well does the make up of the design, develop and testing team match the make up of the target audience?  If not, how could that deficit be addressed? Are there roles that could be filled by people with alternative life experiences?
+
+|}
+
+----
+[[Taxonomy]]  -  [[Person]]  -  [[Product]]  -  [[Infrastructure]]
